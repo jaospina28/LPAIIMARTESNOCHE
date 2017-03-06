@@ -1,0 +1,3 @@
+if(cedula == ""){
+	print "No ha ngresado cedula";
+}
